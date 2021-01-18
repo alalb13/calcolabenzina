@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Applicazione semplice, per calcolare il costo della benzina. Creata con Flutter per Android e IOS.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
